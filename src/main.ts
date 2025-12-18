@@ -91,9 +91,9 @@ graph.invoke({});
 
 (async () => {
     const result = await graph.invoke({
-      mode: "idle",       // initial mode
+      mode: "idle",       
       attempts: 0,
-      maxAttempts: 3,     // try up to 3 times
+      maxAttempts: 3,     
       error: "",
       result: "",
     });
