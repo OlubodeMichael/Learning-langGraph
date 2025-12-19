@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "start": "ts-node src/main.ts",
-    "exercise": "ts-node src/exercise.ts",
-    "exercise2": "ts-node src/exercise2.ts"
+    "agent": "ts-node src/agent.ts",
+    "agentGraph": "ts-node src/agentGraph.ts",
+    "exercise": "ts-node src/exercise.ts"
   },
   "keywords": [],
   "author": "",
