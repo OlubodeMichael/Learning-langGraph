@@ -54,7 +54,6 @@ Desktop.ini
 # LangChain/LangGraph specific
 .langchain/
 .langsmith/
-.cache/
 *.cache
 
 # Python (if using Python alongside Node.js)
